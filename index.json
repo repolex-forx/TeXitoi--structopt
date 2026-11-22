@@ -1,0 +1,11 @@
+{
+  "org": "TeXitoi",
+  "repo": "structopt",
+  "versions": [
+    {
+      "commit": "97e92a3755a65f8ea44c994fd403208e7d97f561",
+      "tag": "v0.3.26",
+      "parsed_at": "2026-11-22T14:23:05.312058+00:00"
+    }
+  ]
+}
